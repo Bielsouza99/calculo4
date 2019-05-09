@@ -1,0 +1,19 @@
+.botao {
+    width:123px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.principal {
+    position: absolute;
+    top: 50%;
+    /* right: 50%; */
+    left: 50%;
+    /* bottom: 50%; */
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.textview {
+    width: 530px;
+    margin: 5px;
+}
